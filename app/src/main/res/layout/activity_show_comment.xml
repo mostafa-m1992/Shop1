@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityShowComment"
+    android:background="#e3e3e3"
+    android:layoutDirection="ltr">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_margin="3dp"
+        android:id="@+id/recyComment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floataction"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="20dp"
+        app:fabSize="normal"
+        android:clickable="true"
+        android:focusable="true"
+        android:tint="#fff"
+        android:src="@drawable/ic_baseline_check_24"
+        android:backgroundTint="#E91E63"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

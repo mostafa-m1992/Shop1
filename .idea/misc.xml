@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/drawable-v24/btndelete.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/activity_basket.xml" value="0.25" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/activity_category.xml" value="0.1" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/activity_main.xml" value="0.1838768115942029" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/activity_product.xml" value="0.1" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/activity_send_comment.xml" value="0.2" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/activity_show_comment.xml" value="0.1" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/activity_splash_screan.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/activity_splash_screen.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/activity_wait.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/layout_basket.xml" value="0.25" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/layout_category.xml" value="0.1" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/layout_comment.xml" value="0.33" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/layout_free.xml" value="0.33" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/layout_only.xml" value="0.22" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/layout_sales.xml" value="0.25" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/layout_visit.xml" value="0.25" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/layoutmain.xml" value="0.18" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/main_slider_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/navigation.xml" value="0.18" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/product_toolbar.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/Mostafa/AndroidStudioProjects/Shop1/app/src/main/res/layout/slider_product_layout.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
